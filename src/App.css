@@ -1,0 +1,10 @@
+.display-flex{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.eliment_Top_margin {
+  margin-top: 40px;
+}
+
